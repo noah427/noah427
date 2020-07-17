@@ -1,4 +1,5 @@
-Hi, I'm Noah a golang and javascript developer living in southeast Florida. I enjoy reading about programming theory and investigating what makes different programming languages unique. 
+### Hi, I'm Noah a golang and javascript developer living in southeast Florida.
+I enjoy reading about programming theory and investigating what makes different programming languages unique. 
 
 - I’m currently learning Rust
 - I'm currently experimenting with data science tools
