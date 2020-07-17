@@ -1,4 +1,6 @@
 ### Hi, I'm Noah a golang and javascript developer living in southeast Florida.
+I am a 14 years old going into highschool during the greatest pandemic of the century.
+
 I enjoy reading about programming theory and investigating what makes different programming languages unique. 
 
 - I’m currently learning Rust
