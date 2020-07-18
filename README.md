@@ -1,10 +1,10 @@
 ### Noah, 14  year old software development enthusiast in southeast Florida.
 
 Passions:
-> Reading about programming
-> Investigating what makes different programming languages unique
-> Data science
-> Reading science fantasy and fantasy { Favorite Series : The Kingkiller Chronicles }
+- Reading about programming
+- Investigating what makes different programming languages unique
+- Data science
+- Reading science fantasy and fantasy { Favorite Series : The Kingkiller Chronicles }
 
 Recent Projects:
 - [Profitis]("https://github.com/noah427/Profitis) 
