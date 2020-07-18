@@ -2,6 +2,7 @@
 I am a 14 year old going into highschool during the greatest pandemic of the century.
 
 I enjoy reading about programming theory and investigating what makes different programming languages unique. 
+My favorite book series is the kingkiller chronicles.
 
 - I’m currently learning Rust
 - I'm currently experimenting with data science tools
