@@ -12,5 +12,5 @@ A Discord stock market simulator styled game in which servers are "stocks" and t
 - [Emoji Analyzer]("https://github.com/noah427/emoji-analyizer) 
 A program that used data from r/emojipasta to determine which emojis should be placed after certain words **(Most fun result)**
 
-Languages : Golang. Rust, Javacript
+Languages : Golang. Rust, Javacript --xof
 Tools : VS Code, Jupyter Notebook, Plotly
