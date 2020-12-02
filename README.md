@@ -14,3 +14,5 @@ A program that used data from r/emojipasta to determine which emojis should be p
 
 Languages : Golang. Rust, Javacript <br />
 Tools : VS Code, Jupyter Notebook, Plotly
+
+Discord : [REDACTED]#4242
