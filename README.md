@@ -1,4 +1,4 @@
-### Noah, 14  year old software development enthusiast in southeast Florida.
+### Noah, 15  year old software development enthusiast in southeast Florida.
 
 Passions:
 - Reading about programming
